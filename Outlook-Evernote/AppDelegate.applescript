@@ -2,8 +2,8 @@
 --  AppDelegate.applescript
 --  Outlook-Evernote
 --
---  Created by Raun Nohavitza on 12/23/14.
---  Copyright (c) 2014 Raun Nohavitza. All rights reserved.
+--  Created by Raun Nohavitza on 3/15/15.
+--  Copyright (c) 2015 Raun Nohavitza. All rights reserved.
 --
 
 script AppDelegate
